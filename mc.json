@@ -1,0 +1,550 @@
+{ "_id" : { "$oid" : "55720abd44657263fb000000" }, "name" : "Beast Sports Nutrition Super Test 180 Caps", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55720ac244657263fb010000" }, "name" : "GAT Testagen 120 Tablets", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55720ac744657263fb020000" }, "name" : "Metabolic Nutrition Thyrene 45 Caps", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "55720b034465726407000000" }, "name" : "Sport Legs 120 Caps", "manufacturer" : "Sport-Legs" }
+{ "_id" : { "$oid" : "55720b074465726407010000" }, "name" : "Basic Research Relacore 72 Tabs", "manufacturer" : "Basic Research" }
+{ "_id" : { "$oid" : "55720b0c4465726407020000" }, "name" : "Dymatize Elite XT", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55720b69446572640e000000" }, "name" : "BPI RoxyLean 60 Caps", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55720b6d446572640e010000" }, "name" : "GAT Testrol 60 Tabs", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55720b75446572640e020000" }, "name" : "BPI Sports A-HD Elite 30 Capsules", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55720b7a446572640e030000" }, "name" : "Virilite Max by Biotech Nutritions 60 Capsules", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55720b85446572640e040000" }, "name" : "Prolab Caffeine 100 Tabs", "manufacturer" : "Prolab" }
+{ "_id" : { "$oid" : "55720b8a446572640e050000" }, "name" : "Optimum Nutrition Platinum Tri-Celle Casein 25 Servings", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720b90446572640e060000" }, "name" : "Novex Biotech Endothil Fruit Punch 30 Servings", "manufacturer" : "Novex Biotech" }
+{ "_id" : { "$oid" : "55720b95446572640e070000" }, "name" : "Myogenix Omega, 120 Softgels, Natural Lemon", "manufacturer" : "MyoGenix" }
+{ "_id" : { "$oid" : "55720b9a446572640e080000" }, "name" : "Micellar Whey 2 Lbs.", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720b9f446572640e090000" }, "name" : "Allmax Nutrition Isoflex", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "55720ba3446572640e0a0000" }, "name" : "ABSFuel Primer Fruit Punch 30 Servings", "manufacturer" : "Bio Science Institute" }
+{ "_id" : { "$oid" : "55720ba8446572640e0b0000" }, "name" : "USPLabs Anabolic Pump 60 Caps", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55720bb2446572640e0c0000" }, "name" : "EFX Kre Alkalyn Powder 66 Servings", "manufacturer" : "All American EFX" }
+{ "_id" : { "$oid" : "55720bb6446572640e0d0000" }, "name" : "Optimum Nutrition Enteric-Coated Fish Oil", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720bbb446572640e0e0000" }, "name" : "Purus Labs D-Pol 30 Servings", "manufacturer" : "Purus Labs" }
+{ "_id" : { "$oid" : "55720bc0446572640e0f0000" }, "name" : "VPX Sports Redline White Heat Strawberry 40 Servings", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55720bc5446572640e100000" }, "name" : "Lean Body Hi Energy Fat Burner 60 Capsules", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55720bd5446572640e110000" }, "name" : "MRI Black Powder Ultra 40 Servings", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "55720bda446572640e120000" }, "name" : "Optimum Nutrition Glutamine 1000 MG 240 Tabs", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720be0446572640e130000" }, "name" : "Cyclone Cup Shaker 20 oz", "manufacturer" : "Cyclone Cups" }
+{ "_id" : { "$oid" : "55720be6446572640e140000" }, "name" : "VPX Medivin 30 Packets", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55720bea446572640e150000" }, "name" : "Twinlab Ripped Fuel 5X 40 Tablet", "manufacturer" : "Twinlab" }
+{ "_id" : { "$oid" : "55720bef446572640e160000" }, "name" : "Lean Body For Her Fat Burner, 60 Capsules", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55720bf4446572640e170000" }, "name" : "Muscletech Platinum 100% Fish Oil 100 Soft Gel", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720bf9446572640e180000" }, "name" : "Universal Nutrition Animal Rage Twin Pack - 30 Servings", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55720c04446572640e190000" }, "name" : "ProSupps L-Carnitine 1500 16oz", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55720c09446572640e1a0000" }, "name" : "Optimum Nutrition Opti-Women", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720c0e446572640e1b0000" }, "name" : "Neon Sport Kinetic 30 Servings", "manufacturer" : "Neon Sports" }
+{ "_id" : { "$oid" : "55720c12446572640e1c0000" }, "name" : "Muscletech Essential Series Platinum 100% Iso Whey", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720c17446572640e1d0000" }, "name" : "Quest Nutrition Protein 2 lbs.", "manufacturer" : "Quest Nutrition" }
+{ "_id" : { "$oid" : "55720c1c446572640e1e0000" }, "name" : "I Force Nutrition Dexaprine XR 60 Caps", "manufacturer" : "I-Force-Nutrition" }
+{ "_id" : { "$oid" : "55720c21446572640e1f0000" }, "name" : "Pure Karbolyn 4.4 Lbs.", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55720c2b446572640e200000" }, "name" : "100% Gold Standard Natural Whey + FREE Protein Energy Trial", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720c30446572640e210000" }, "name" : "I Force Nutrition Hemavol", "manufacturer" : "I-Force-Nutrition" }
+{ "_id" : { "$oid" : "55720c46446572640e220000" }, "name" : "Muscle Pharm Assault", "manufacturer" : "Muscle Pharm" }
+{ "_id" : { "$oid" : "55720c4f446572640e230000" }, "name" : "Dymatize Xpand 2x 40 Servings", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55720c54446572640e240000" }, "name" : "Nubreed Nutrition Tenacity 60 Capsules", "manufacturer" : "Nubreed Nutrition" }
+{ "_id" : { "$oid" : "55720c59446572640e250000" }, "name" : "Gaspari Nutrition SuperDrive Fruit Punch 20 Servings", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55720c5d446572640e260000" }, "name" : "Optimum Nutrition 100% Casein 4 lbs. + FREE Protein Energy Trial", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720c62446572640e270000" }, "name" : "Isatori Isa-Test GF 104 Caps + FREE Isatest DA3 7 Servings Grape", "manufacturer" : "Isatori" }
+{ "_id" : { "$oid" : "55720c67446572640e280000" }, "name" : "MRM Veggie Protein 570 Grams", "manufacturer" : "Metabolic Response Modifiers-MRM" }
+{ "_id" : { "$oid" : "55720c7c446572640e290000" }, "name" : "Purus Labs NOXygen Unflavored 40 Servings", "manufacturer" : "Purus Labs" }
+{ "_id" : { "$oid" : "55720c81446572640e2a0000" }, "name" : "Athletic Edge Nutrition Ape", "manufacturer" : "Athletic Edge Nutrition" }
+{ "_id" : { "$oid" : "55720c86446572640e2b0000" }, "name" : "RSP Nutrition Regen 50 Servings", "manufacturer" : "RSP Nutrition" }
+{ "_id" : { "$oid" : "55720c8b446572640e2c0000" }, "name" : "MuscleTech Platinum Multi Vitamin 90 Caplets", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720c8f446572640e2d0000" }, "name" : "Giant Sports Muscle Maker 6 Pounds", "manufacturer" : "Giant Sports" }
+{ "_id" : { "$oid" : "55720c94446572640e2e0000" }, "name" : "Bio-science Institute Absolute Fuel 120 Caps", "manufacturer" : "Bio Science Institute" }
+{ "_id" : { "$oid" : "55720c99446572640e2f0000" }, "name" : "VPX NO Shotgun Sample Pack", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55720c9d446572640e300000" }, "name" : "Labrada Nutrition Garcinia Cambogia 90 Capsules", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55720ca2446572640e310000" }, "name" : "GasPari Nutrition AminoMax 8000 350 Caps", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55720cac446572640e320000" }, "name" : "Dymatize Nutrition M.P.S 20 Servings", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55720cb5446572640e330000" }, "name" : "Muscle WareFare NMDA 90 Capsules", "manufacturer" : "Muscle-Warefare" }
+{ "_id" : { "$oid" : "55720cc0446572640e340000" }, "name" : "Whole Food Vitamin", "manufacturer" : null }
+{ "_id" : { "$oid" : "55720cc4446572640e350000" }, "name" : "Universal Nutrition Tribulus Pro 100 Capsules", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55720ccf446572640e360000" }, "name" : "NoGii High Protein Bar", "manufacturer" : "NoGii" }
+{ "_id" : { "$oid" : "55720cd4446572640e370000" }, "name" : "Optimum Nutrition Essential Amino Energy", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720cde446572640e380000" }, "name" : "Dymatize M.P.ACT 30 Servings", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55720ce3446572640e390000" }, "name" : "BSN Hyper Shred 90 Capsules", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55720ce8446572640e3a0000" }, "name" : "Alvita Organic Raspberry 24 Tea Bags", "manufacturer" : "Alvita" }
+{ "_id" : { "$oid" : "55720cf1446572640e3b0000" }, "name" : "USPLabs Modern Creatine Unflavored 30 Servings", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55720cf6446572640e3c0000" }, "name" : "Muscle Pharm CLA Core 180 Soft Gel", "manufacturer" : "Muscle Pharm" }
+{ "_id" : { "$oid" : "55720cfb446572640e3d0000" }, "name" : "USPLabs Prime 120 Caps", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55720d04446572640e3e0000" }, "name" : "Allmax Nutrition Advanced AllFlex 60 Capsules", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "55720d0f446572640e3f0000" }, "name" : "360Dreams 120 Capsules", "manufacturer" : "360 Cut" }
+{ "_id" : { "$oid" : "55720d15446572640e400000" }, "name" : "MuscleMaxx Mass Gainer 12 Lbs.", "manufacturer" : "MuscleMaxx" }
+{ "_id" : { "$oid" : "55720d1a446572640e410000" }, "name" : "Betancourt Nutrition Omega-3 EFA 1000 mg - 270 Softgels", "manufacturer" : "Betancourt Nutrition" }
+{ "_id" : { "$oid" : "55720d1f446572640e420000" }, "name" : "Labrada Nutrition PE1 Performance Enhancer 30 Servings", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55720d29446572640e430000" }, "name" : "Nature's Best Isopure Natural 3 lb", "manufacturer" : "Nature's Best" }
+{ "_id" : { "$oid" : "55720d2e446572640e440000" }, "name" : "VIAXUS Male Enhancement 40 Capsules", "manufacturer" : "truDERMA" }
+{ "_id" : { "$oid" : "55720d32446572640e450000" }, "name" : "Purus Labs Condense 244 Gram", "manufacturer" : "Purus Labs" }
+{ "_id" : { "$oid" : "55720d47446572640e460000" }, "name" : "Universal Nutrition Real Gains", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55720d4b446572640e470000" }, "name" : "Beast Sports Nutrition 2 Shredded 120 Caps", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55720d50446572640e480000" }, "name" : "Lecheek Nutrition Hottie 30 Servings", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "55720d5f446572640e490000" }, "name" : "Neon Sport Volt 36 Servings", "manufacturer" : "Neon Sports" }
+{ "_id" : { "$oid" : "55720d64446572640e4a0000" }, "name" : "NutriForce NutriWhey 2 Lbs.", "manufacturer" : "Nutri Force Sports" }
+{ "_id" : { "$oid" : "55720d6f446572640e4b0000" }, "name" : "Ultra Lab Human Growth Complex 126 Tabs", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55720d86446572640e4c0000" }, "name" : "Cytosport Muscle Milk Pro Series 50 2.54 Lbs.", "manufacturer" : "CytoSport" }
+{ "_id" : { "$oid" : "55720d8b446572640e4d0000" }, "name" : "ProSupps Mr. Hyde 40 Servings + FREE Hyde 5 Servings", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55720d96446572640e4e0000" }, "name" : "Optimum Nutrition 100% Soy Protein 2 lbs", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720d9a446572640e4f0000" }, "name" : "Optimum Nutrition Amino Chewables", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720da5446572640e500000" }, "name" : "Finaflex Muscle Fiber 60 Servings", "manufacturer" : "FINAFLEX (Redefine Nutrition)" }
+{ "_id" : { "$oid" : "55720daa446572640e510000" }, "name" : "VPX Redline White Heat Sample - 1 Serv", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55720db0446572640e520000" }, "name" : "Metabolic Nutrition Tri-Pep 40 Servings", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "55720db4446572640e530000" }, "name" : "BPI Sports B4 30 Capsules", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55720dba446572640e540000" }, "name" : "Betancourt Nutrition Pump'd 8 Servings Strawberry Kiwi", "manufacturer" : "Betancourt Nutrition" }
+{ "_id" : { "$oid" : "55720dbf446572640e550000" }, "name" : "Muscle Pharm Glutamine 60 Servings", "manufacturer" : "Muscle Pharm" }
+{ "_id" : { "$oid" : "55720dc4446572640e560000" }, "name" : "MusclePharm Combat 4 Lbs.", "manufacturer" : "Muscle Pharm" }
+{ "_id" : { "$oid" : "55720dc9446572640e570000" }, "name" : "Pro Supps I-Load 60 Caps", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55720dce446572640e580000" }, "name" : "Prime Nutrition Phytoform Kiwi-Strawberry , 30 Servings", "manufacturer" : "Prime Nutrition" }
+{ "_id" : { "$oid" : "55720dd3446572640e590000" }, "name" : "Allmax Nutrition Carbion 2.4 Lbs.", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "55720ddd446572640e5a0000" }, "name" : "Athletic Edge Nutrition Intrabolic", "manufacturer" : "Athletic Edge Nutrition" }
+{ "_id" : { "$oid" : "55720de2446572640e5b0000" }, "name" : "Muscle Meds Carnivor Raging Bull Series 1 Lbs.", "manufacturer" : "Muscle Meds" }
+{ "_id" : { "$oid" : "55720de7446572640e5c0000" }, "name" : "Rasp-Kut 120 Caps", "manufacturer" : "Nutra Health Supply" }
+{ "_id" : { "$oid" : "55720dec446572640e5d0000" }, "name" : "Isatroi MX-LS7 120 Caps", "manufacturer" : "Isatori" }
+{ "_id" : { "$oid" : "55720df1446572640e5e0000" }, "name" : "Optimum Nutrition Platinum Tri-Celle Casein Sample", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720df6446572640e5f0000" }, "name" : "Muscle Meds Secret Sauce 3.1 Lbs.", "manufacturer" : "Muscle Meds" }
+{ "_id" : { "$oid" : "55720e0a446572640e600000" }, "name" : "Muscltech Essential Series Platinum 100% Whey", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720e10446572640e610000" }, "name" : "Cellucor COR-Performance Series ZMA 120 Capsules", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "55720e16446572640e620000" }, "name" : "Nutra Health Supply Advanced RaspBerry Ketones", "manufacturer" : "Nutra Health Supply" }
+{ "_id" : { "$oid" : "55720e1a446572640e630000" }, "name" : "All American EFX Kre Alkalyn 240 Caps", "manufacturer" : "All American EFX" }
+{ "_id" : { "$oid" : "55720e1f446572640e640000" }, "name" : "Vitamin B Complex 2 fl oz", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55720e24446572640e650000" }, "name" : "MHP BCAA 10X Energy 30 Servings", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55720e30446572640e660000" }, "name" : "Lecheek Nutrition Ad-3 PCT 60 Capsules", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "55720e34446572640e670000" }, "name" : "GAT Muscle Martini 30 Servings", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55720e3e446572640e680000" }, "name" : "GPS 14 to Lean - 2 weeks Training Program", "manufacturer" : null }
+{ "_id" : { "$oid" : "55720e43446572640e690000" }, "name" : "VPX Zero Carb SRO Vanilla 4.4 Lbs", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55720e4d446572640e6a0000" }, "name" : "I Force Nutrition Tropinol XP 100 Caps", "manufacturer" : "I-Force-Nutrition" }
+{ "_id" : { "$oid" : "55720e57446572640e6b0000" }, "name" : "BSN Nitrix 360 Tablets", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55720e5c446572640e6c0000" }, "name" : "Nutrex Lipo 6 Unlimited 120 Caps", "manufacturer" : "Nutrex" }
+{ "_id" : { "$oid" : "55720e6b446572640e6d0000" }, "name" : "Cutler Nutrition Dry 28 Capsules", "manufacturer" : "Cutler Nutrition" }
+{ "_id" : { "$oid" : "55720e70446572640e6e0000" }, "name" : "Cloma Pharma Asia Black 25 - 100 Capsules", "manufacturer" : "Cloma Pharma" }
+{ "_id" : { "$oid" : "55720e7c446572640e6f0000" }, "name" : "Lecheek Nutrition Ampilean 60 Caps", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "55720e80446572640e700000" }, "name" : "BPI Sports Best BCAA 30 Servings", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55720e85446572640e710000" }, "name" : "Biotech Nutrition Yohimbine HCl 120 Caps", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55720e90446572640e720000" }, "name" : "Biotech Nutritions Beef Protein 28 Servings", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55720e99446572640e730000" }, "name" : "BSN Thermonex 120ct", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55720e9e446572640e740000" }, "name" : "RSP Fast Fuel", "manufacturer" : "RSP Nutrition" }
+{ "_id" : { "$oid" : "55720ea8446572640e750000" }, "name" : "MuscleTech Neurocore 45 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720ead446572640e760000" }, "name" : "Super Nutrition SimplyOne Women 30 Tablets", "manufacturer" : "Super Nutrition" }
+{ "_id" : { "$oid" : "55720eb2446572640e770000" }, "name" : "SAN Fierce Domination 40 Serving", "manufacturer" : "SAN" }
+{ "_id" : { "$oid" : "55720ebc446572640e780000" }, "name" : "BetnaCourt Nutrition BullNox 35 Servings", "manufacturer" : "Betancourt Nutrition" }
+{ "_id" : { "$oid" : "55720ec6446572640e790000" }, "name" : "360Slim For Her 90 Capsules", "manufacturer" : "360 Cut" }
+{ "_id" : { "$oid" : "55720ecb446572640e7a0000" }, "name" : "Alpha-T2", "manufacturer" : "PES" }
+{ "_id" : { "$oid" : "55720ed0446572640e7b0000" }, "name" : "Optimum Nutrition Serious Mass", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55720edf446572640e7c0000" }, "name" : "GAT Jetfuel Pyro 120 Liquid Capsules", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55720ee3446572640e7d0000" }, "name" : "Beast Sports Nutrition Re-Animate Orance Creamsicle 30 Servings", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55720ee8446572640e7e0000" }, "name" : "ProMera Sports Capsi Blast 48 Servings", "manufacturer" : "Con-Cret" }
+{ "_id" : { "$oid" : "55720ef3446572640e7f0000" }, "name" : "MuscleTech 100% Platinum Glutamine 60 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720ef8446572640e800000" }, "name" : "Cellucor Super HD 60 Capsules", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "55720f0c446572640e810000" }, "name" : "USplabs Jack3d Advanced 45 Servings", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55720f13446572640e820000" }, "name" : "White Kidney Bean Extract 200 Caps", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55720f18446572640e830000" }, "name" : "Hydroxycut Hardcore Elite 100 Cap + RaspBerry Ketone 60 Cap", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720f1d446572640e840000" }, "name" : "Cellucor NO3 Chrome", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "55720f27446572640e850000" }, "name" : "Gaspari Nutrition Qualitine 300 Grams", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55720f2c446572640e860000" }, "name" : "BPI Sports Stim Elite 30 Servings", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55720f31446572640e870000" }, "name" : "SuperNutrition Men's Blend", "manufacturer" : "Super Nutrition" }
+{ "_id" : { "$oid" : "55720f37446572640e880000" }, "name" : "MuscleTech Platinum Pure CLA Powder 100 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720f3c446572640e890000" }, "name" : "BSN Cellmass 2.0 Advanced Strength", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55720f41446572640e8a0000" }, "name" : "SimplyOne Prenatal", "manufacturer" : "Super Nutrition" }
+{ "_id" : { "$oid" : "55720f4c446572640e8b0000" }, "name" : "Biotech Nutritions Garcinia Cambogia 120 Caps", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55720f58446572640e8c0000" }, "name" : "Natrol Tonalin CLA 90 Soft Gel", "manufacturer" : "Natrol" }
+{ "_id" : { "$oid" : "55720f62446572640e8d0000" }, "name" : "Concret Creatine 48 Capsules", "manufacturer" : "Con-Cret" }
+{ "_id" : { "$oid" : "55720f68446572640e8e0000" }, "name" : "Resurrect-P.M. 8 Servings Blue Razz Dream", "manufacturer" : "Ronnie Coleman Signature Series" }
+{ "_id" : { "$oid" : "55720f84446572640e8f0000" }, "name" : "BPI Blox", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55720f8f446572640e900000" }, "name" : "ZetaSlim Tablets", "manufacturer" : null }
+{ "_id" : { "$oid" : "55720f93446572640e910000" }, "name" : "Cloma Pharma China White 25 - 100 Tablets", "manufacturer" : "Cloma Pharma" }
+{ "_id" : { "$oid" : "55720f98446572640e920000" }, "name" : "Muscle Pharm Bullet Proof 40 Servings", "manufacturer" : "Muscle Pharm" }
+{ "_id" : { "$oid" : "55720fa1446572640e930000" }, "name" : "GAT Jetfuel AQX 90 Capsules", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55720fa6446572640e940000" }, "name" : "Crash by Pro Supps 60 Caps", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55720fac446572640e950000" }, "name" : "Amazing Grass Organic Wheat Grass 200 Tablets", "manufacturer" : "Amazing Grass" }
+{ "_id" : { "$oid" : "55720fb1446572640e960000" }, "name" : "Amphetalean 90 Capsules", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55720fc6446572640e970000" }, "name" : "Universal Nutrition Animal Rage 44-Pack", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55720fca446572640e980000" }, "name" : "Cellucor COR-Performance Series Creatine", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "55720fcf446572640e990000" }, "name" : "Athletic Xtreme Super Size Lemon Ice 45 Servings", "manufacturer" : "Athletic Xtreme" }
+{ "_id" : { "$oid" : "55720fd4446572640e9a0000" }, "name" : "MHP Dopamite 60 Caps", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55720fd9446572640e9b0000" }, "name" : "USPLabs Compound 20 132 Caps", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55720fe8446572640e9c0000" }, "name" : "MuscleTech Test HD 90 Caplets", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55720ff2446572640e9d0000" }, "name" : "MHP BCAA 10X 30 Servings", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55720ff7446572640e9e0000" }, "name" : "GAT JetMass 40 Servings + FREE GAT Lifting Straps", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55720ffc446572640e9f0000" }, "name" : "Twinlab Whey Fuel 2 Lbs.", "manufacturer" : "Twinlab" }
+{ "_id" : { "$oid" : "55721002446572640ea00000" }, "name" : "Arnold By Musclepharm: Iron Pump 30 Servings", "manufacturer" : "Arnold By MusclePharm" }
+{ "_id" : { "$oid" : "55721007446572640ea10000" }, "name" : "Force Factor Pre-Workout 120 Caps", "manufacturer" : "Force Factor" }
+{ "_id" : { "$oid" : "5572100c446572640ea20000" }, "name" : "VPX Sports CREmtor Unflavored 30 Servings", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "5572101b446572640ea30000" }, "name" : "GastrobiPlex 380mg CorLeptin 60 Capsules", "manufacturer" : "truDERMA" }
+{ "_id" : { "$oid" : "55721025446572640ea40000" }, "name" : "Gaspari Nutrition Superpump 3.0 Fruit Punch 36 Servings", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55721030446572640ea50000" }, "name" : "Muscletech Phase8", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721034446572640ea60000" }, "name" : "Prolab Whey Isolate Wild Strawberry 2 lb", "manufacturer" : "Prolab" }
+{ "_id" : { "$oid" : "55721039446572640ea70000" }, "name" : "Labrada Nutrition HumanoGrowth 120 Capsules", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "5572103e446572640ea80000" }, "name" : "Giant Sports Metabolic BioShock 40 Servings", "manufacturer" : "Giant Sports" }
+{ "_id" : { "$oid" : "55721047446572640ea90000" }, "name" : "Gaspari Nutrition Size On 3.49 lb", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "5572104c446572640eaa0000" }, "name" : "Gaspari Nutrition Detonate XT Sample Packets - 2 Caps", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55721056446572640eab0000" }, "name" : "BSN Nitrix 2.0", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "5572105b446572640eac0000" }, "name" : "Gaspari Nutrition Glycofuse", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55721065446572640ead0000" }, "name" : "MuscleTech Platinum Garcinia Plus 120 Caplets", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "5572106b446572640eae0000" }, "name" : "Natrol Biotin 1000 mcg 100 Tablets", "manufacturer" : "Natrol" }
+{ "_id" : { "$oid" : "55721070446572640eaf0000" }, "name" : "Pure Graviola 1300mg - 120 Caps", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "5572107a446572640eb00000" }, "name" : "Nubreed Nutrition Helix BCAA 30 Servings", "manufacturer" : "Nubreed Nutrition" }
+{ "_id" : { "$oid" : "5572107f446572640eb10000" }, "name" : "Nutra Health Supply Garcinia Cambogia 60 Capsules", "manufacturer" : "Nutra Health Supply" }
+{ "_id" : { "$oid" : "55721084446572640eb20000" }, "name" : "Super Nutrition SimplyOne Men", "manufacturer" : "Super Nutrition" }
+{ "_id" : { "$oid" : "55721089446572640eb30000" }, "name" : "Gaspari Nutrition SuperPump Max Blue Raspberry 40 Servings", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55721098446572640eb40000" }, "name" : "ISS Research Oh Yeah Isolate Power", "manufacturer" : "ISS Research" }
+{ "_id" : { "$oid" : "5572109d446572640eb50000" }, "name" : "Dymatize All Natural Elite 100% Whey Protein Isolate", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "557210a3446572640eb60000" }, "name" : "Muscletech Amino Build 30 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557210a8446572640eb70000" }, "name" : "Metabolic Nutrition T.A.G. (Trans Alanyl Glutamine) 400 Grams", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "557210ad446572640eb80000" }, "name" : "Giant Sport Dexamine 60 Caps", "manufacturer" : "Giant Sports" }
+{ "_id" : { "$oid" : "557210b2446572640eb90000" }, "name" : "Allmax Nutrition CLA 150ct", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "557210b7446572640eba0000" }, "name" : "Optimum Nutrition Natural 100% Casein 4 Lbs.", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "557210bb446572640ebb0000" }, "name" : "Isa-Test DA3 Testosterone Powder", "manufacturer" : "Isatori" }
+{ "_id" : { "$oid" : "557210ca446572640ebc0000" }, "name" : "I Force Nutrition Conquer Fruit Punch 60 Servings", "manufacturer" : "I-Force-Nutrition" }
+{ "_id" : { "$oid" : "557210cf446572640ebd0000" }, "name" : "Joint Care", "manufacturer" : null }
+{ "_id" : { "$oid" : "557210d4446572640ebe0000" }, "name" : "MHP MYO-X Vanilla 30 Servings", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "557210d9446572640ebf0000" }, "name" : "Lecheek Nutrition Speed X3 Test 40 Servings", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "557210de446572640ec00000" }, "name" : "Beast Sports Creature 180 Caps", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "557210e3446572640ec10000" }, "name" : "Muscletech Push10 Fruit Punch 32 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557210ed446572640ec20000" }, "name" : "Phospha Muscle 140 Softgels", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557210f2446572640ec30000" }, "name" : "SAN Tight Xtreme Reloaded V3 120 Hot Caps", "manufacturer" : "SAN" }
+{ "_id" : { "$oid" : "557210fc446572640ec40000" }, "name" : "USPLabs 3-in-1 Shaker", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55721100446572640ec50000" }, "name" : "MRI EO2 Edge 20 Servings", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "55721106446572640ec60000" }, "name" : "Pro Supps I-Focus Sample Pack", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "5572110a446572640ec70000" }, "name" : "BioTech Garcinia Cambogia 60 Caps", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "5572111e446572640ec80000" }, "name" : "Metabolic Nutrition E.S.P. 300gm", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "55721122446572640ec90000" }, "name" : "Shaker Bottle - 22 OZ Capacity", "manufacturer" : "Nutra Health Supply" }
+{ "_id" : { "$oid" : "5572112e446572640eca0000" }, "name" : "Dymatize Micronized Glutamine", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55721132446572640ecb0000" }, "name" : "Prime Nutrition Water Loss Pineapple 90 Servings", "manufacturer" : "Prime Nutrition" }
+{ "_id" : { "$oid" : "55721137446572640ecc0000" }, "name" : "Muscletech Hydroxycut Hardcore Elite Stimulant Free 100 Capsules", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "5572113b446572640ecd0000" }, "name" : "Twinlab Infant Care Multivitamin Drops with DHA 50 Servings", "manufacturer" : "Twinlab" }
+{ "_id" : { "$oid" : "55721140446572640ece0000" }, "name" : "MRI NO2 Ripcuts 20 Packs", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "55721145446572640ecf0000" }, "name" : "Athletic Xtreme Stimulant X 84 Capsules", "manufacturer" : "Athletic Xtreme" }
+{ "_id" : { "$oid" : "5572114a446572640ed00000" }, "name" : "360Test 180 Capsules", "manufacturer" : "360 Cut" }
+{ "_id" : { "$oid" : "5572114f446572640ed10000" }, "name" : "Vitalikor Test 60 Capsules", "manufacturer" : "Vitality Research Labs" }
+{ "_id" : { "$oid" : "5572115f446572640ed20000" }, "name" : "Amazing Grass Amaing Meal", "manufacturer" : "Amazing Grass" }
+{ "_id" : { "$oid" : "55721174446572640ed30000" }, "name" : "iForce Nutrition Thermoxyn 120 Capsules", "manufacturer" : "I-Force-Nutrition" }
+{ "_id" : { "$oid" : "5572117f446572640ed40000" }, "name" : "Animal Pak 44 Pack", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55721184446572640ed50000" }, "name" : "GAT Supertein", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "5572118a446572640ed60000" }, "name" : "Universal Nutrition Animal Stak 21 Packs", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "5572118f446572640ed70000" }, "name" : "ProSupps Vexxum 45 Capsules", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55721194446572640ed80000" }, "name" : "VPX Sports Triple Test 90 Capsules", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55721199446572640ed90000" }, "name" : "Nutrex Lipo 6 Black Ultra Concentrate", "manufacturer" : "Nutrex" }
+{ "_id" : { "$oid" : "5572119e446572640eda0000" }, "name" : "Biotech Nutrition Creapure Creatine Monohydrate 60 Serv", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "557211a3446572640edb0000" }, "name" : "Universal Animal Iconic T Shirt Yellow Large", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "557211a8446572640edc0000" }, "name" : "Purus Labs Recycle 100 Capsules", "manufacturer" : "Purus Labs" }
+{ "_id" : { "$oid" : "557211ac446572640edd0000" }, "name" : "Amazing Grass Green Superfood", "manufacturer" : "Amazing Grass" }
+{ "_id" : { "$oid" : "557211b2446572640ede0000" }, "name" : "MRI Anabolic Switch Fruit Punch  2 lb", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "557211b7446572640edf0000" }, "name" : "Optimum Nutrition Creatine", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "557211bc446572640ee00000" }, "name" : "ISS Research Oh Yeah Total Protein System", "manufacturer" : "ISS Research" }
+{ "_id" : { "$oid" : "557211c1446572640ee10000" }, "name" : "Force Factor Ramp Up 60 Caps", "manufacturer" : "Force Factor" }
+{ "_id" : { "$oid" : "557211cc446572640ee20000" }, "name" : "ON Platinum Pre 30 Servings + FREE Gold Pre 6 Servings", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "557211e9446572640ee30000" }, "name" : "MRI Black Powder 3 lb - ON SALE WHILE SUPPLY LAST", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "55721202446572640ee40000" }, "name" : "Optimum Nutrition Pro BCAA Unflavored 20 Servings", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55721207446572640ee50000" }, "name" : "Nutrex NIOX Advanced 120 Liquid Caps", "manufacturer" : "Nutrex" }
+{ "_id" : { "$oid" : "5572120c446572640ee60000" }, "name" : "CytoSport CytoGainer 6lb", "manufacturer" : "CytoSport" }
+{ "_id" : { "$oid" : "55721211446572640ee70000" }, "name" : "ON Gold Standard 100% Whey Protein + FREE ON Fish Oil 100 ct", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55721220446572640ee80000" }, "name" : "Metabolic Nutrition Synedrex 45 Caps", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "5572122e446572640ee90000" }, "name" : "Optimum Nutrition Amino Energy Chewables 75 Chewables", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55721233446572640eea0000" }, "name" : "BSN Syntha 6 Isolate", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55721237446572640eeb0000" }, "name" : "UP Your Mass", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "5572123c446572640eec0000" }, "name" : "Nutrex Lipo 6 Black 120 Caps", "manufacturer" : "Nutrex" }
+{ "_id" : { "$oid" : "55721241446572640eed0000" }, "name" : "Nogii Protein D'Lites 18 Pack Chocolate Caramel Bliss", "manufacturer" : "NoGii" }
+{ "_id" : { "$oid" : "55721245446572640eee0000" }, "name" : "Pro Supps DNPX 60 Capsules + FREE Vanish Trial", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "5572124a446572640eef0000" }, "name" : "Cellucor COR-Performance Series BCAA 30 Servings", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "55721254446572640ef00000" }, "name" : "MuscleMeds Carnivor Beef Amino 300 Tablets", "manufacturer" : "Muscle Meds" }
+{ "_id" : { "$oid" : "55721263446572640ef10000" }, "name" : "BPI Sports Iso HD 1.6 Lbs.", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55721267446572640ef20000" }, "name" : "Optimum Nutrition HydroWhey Sample Packet", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "5572126d446572640ef30000" }, "name" : "Fit Miss Ignite Orange 30 Servings", "manufacturer" : "Fit Miss" }
+{ "_id" : { "$oid" : "55721276446572640ef40000" }, "name" : "Ronnie Coleman Signature Series Myo Blitz Watermelon 30 Servings", "manufacturer" : "Ronnie Coleman Signature Series" }
+{ "_id" : { "$oid" : "5572127f446572640ef50000" }, "name" : "BSN Syntha 6 10.05 Lbs.", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55721284446572640ef60000" }, "name" : "BSN True Mass 1200 10.25 Lbs.", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55721295446572640ef70000" }, "name" : "SES Prime Protein 2lb.", "manufacturer" : "Side Effect Sports" }
+{ "_id" : { "$oid" : "557212a0446572640ef80000" }, "name" : "Labrada Nutrition ElastiJoint 28 Servings", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "557212a5446572640ef90000" }, "name" : "Platinum HydroWhey  + FREE Gold Standard Whey Trial Size", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "557212a9446572640efa0000" }, "name" : "Arnold By MusclePharm Iron Dream 30 Servings", "manufacturer" : "Arnold By MusclePharm" }
+{ "_id" : { "$oid" : "557212ae446572640efb0000" }, "name" : "Muscle Pharm Armor V 180 Caps", "manufacturer" : "Muscle Pharm" }
+{ "_id" : { "$oid" : "557212c4446572640efc0000" }, "name" : "Muscletech Amino Fx 20 Servings Fruit Punch", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557212ca446572640efd0000" }, "name" : "Cellucor Alpha Amino 30 Servings", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "557212d4446572640efe0000" }, "name" : "Optimum Nutrition Platinum HydroBuilder", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "557212d9446572640eff0000" }, "name" : "MRI Black Powder 20 Pack", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "557212de446572640e000100" }, "name" : "USPLabs Powerful 90 Capsules", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "557212f8446572640e010100" }, "name" : "Lecheek Nutrition Pump X3 40 Servings", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "55721301446572640e020100" }, "name" : "Biotech Nutritions Pea Rice Protein 16 OZ", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55721312446572640e030100" }, "name" : "Iron Test 90 Capsules", "manufacturer" : "Arnold By MusclePharm" }
+{ "_id" : { "$oid" : "55721316446572640e040100" }, "name" : "Cellucor L2 Extreme 40 Capsules", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "5572131b446572640e050100" }, "name" : "Hair Rx", "manufacturer" : null }
+{ "_id" : { "$oid" : "55721325446572640e060100" }, "name" : "MyoGenix Hyper Shock Rage 40 Servings", "manufacturer" : "MyoGenix" }
+{ "_id" : { "$oid" : "5572133a446572640e070100" }, "name" : "Metabolic Nutrition Protizyme", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "55721348446572640e080100" }, "name" : "Ronnie Coleman Signature Series King Mass XL 6 Lbs.", "manufacturer" : "Ronnie Coleman Signature Series" }
+{ "_id" : { "$oid" : "5572134d446572640e090100" }, "name" : "MRI NO2 Black", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "55721357446572640e0a0100" }, "name" : "Troxyphen Elite 120 Capsules + FREE Troxyphen Trial", "manufacturer" : "truDERMA" }
+{ "_id" : { "$oid" : "55721364446572640e0b0100" }, "name" : "Nutrex T-UP 120 Capsules", "manufacturer" : "Nutrex" }
+{ "_id" : { "$oid" : "55721374446572640e0c0100" }, "name" : "Rasp-Kut 360 Caps", "manufacturer" : "Nutra Health Supply" }
+{ "_id" : { "$oid" : "55721380446572640e0d0100" }, "name" : "Muscletech Clear Muscle + FREE Platinum Whey Trial Size", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721384446572640e0e0100" }, "name" : "Muscle Warefare NAPALM 45 Servings", "manufacturer" : "Muscle-Warefare" }
+{ "_id" : { "$oid" : "5572138e446572640e0f0100" }, "name" : "GAT JetFuel 144 Caps", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55721393446572640e100100" }, "name" : "All American EFX Test Charge 30 Day Kit", "manufacturer" : "All American EFX" }
+{ "_id" : { "$oid" : "5572139d446572640e110100" }, "name" : "MHP Dark Matter Zero Carb 40 Servings", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "557213a7446572640e120100" }, "name" : "Dymatize Super Mass Gainer", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "557213ab446572640e130100" }, "name" : "All American EFX Karbolyn 2.2 lb", "manufacturer" : "All American EFX" }
+{ "_id" : { "$oid" : "557213ba446572640e140100" }, "name" : "MuscleTech Performance Series Cell Tech", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557213bf446572640e150100" }, "name" : "Truderma Mangodrin Stimulant Free 90 Capsules", "manufacturer" : "truDERMA" }
+{ "_id" : { "$oid" : "557213c9446572640e160100" }, "name" : "Lecheek Nutrition Speed X3 - Limited Sale", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "557213ce446572640e170100" }, "name" : "Xenadrine XT 20 Capsules", "manufacturer" : "Cytogenix" }
+{ "_id" : { "$oid" : "557213d3446572640e180100" }, "name" : "GAT Jetfuel Accelerator 120 Capsules", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "557213d9446572640e190100" }, "name" : "MRI Pro-Nos 3 lbs.", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "557213de446572640e1a0100" }, "name" : "ANSI Xtreme Shock 45 Servings", "manufacturer" : "ANSI" }
+{ "_id" : { "$oid" : "557213e2446572640e1b0100" }, "name" : "Biotech Nutritions Pure Corydalis 120 Capsules", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "557213ee446572640e1c0100" }, "name" : "Cloma Pharma Methyldrene 25- 100 Caps", "manufacturer" : "Cloma Pharma" }
+{ "_id" : { "$oid" : "557213f7446572640e1d0100" }, "name" : "ProSupps Vanish Fat Metabolizer 90 Capsules", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "557213fc446572640e1e0100" }, "name" : "VitaliKor Daily Maintenance 60 Caps", "manufacturer" : "Vitality Research Labs" }
+{ "_id" : { "$oid" : "55721407446572640e1f0100" }, "name" : "MuscleTech Platinum Phosphatidyl Serine 60 Capsule", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "5572140c446572640e200100" }, "name" : "Optimum Nutrition BCAA 1000 400 Capsules", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "5572141b446572640e210100" }, "name" : "GAT NitraFlex 30 Servings - Best Sale Price", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55721421446572640e220100" }, "name" : "MRM CLA 1250", "manufacturer" : "Metabolic Response Modifiers-MRM" }
+{ "_id" : { "$oid" : "55721426446572640e230100" }, "name" : "Dymatize Elite Whey Protein", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "5572142b446572640e240100" }, "name" : "MHP Dark Matter New Improved Extra Potent 40 Servings", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55721430446572640e250100" }, "name" : "Hydroxycut Hardcore Next Gen", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "5572143f446572640e260100" }, "name" : "ProLab N-Large 3 Vanilla 3.8 lb", "manufacturer" : "Prolab" }
+{ "_id" : { "$oid" : "55721449446572640e270100" }, "name" : "Muscle Meds Amino Decanate 30 Servings", "manufacturer" : "Muscle Meds" }
+{ "_id" : { "$oid" : "55721453446572640e280100" }, "name" : "360Intra Fruit Punch 30 Servings", "manufacturer" : "360 Cut" }
+{ "_id" : { "$oid" : "55721466446572640e290100" }, "name" : "Optimum Nutrition Protein Energy 26 Servings", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "5572146d446572640e2a0100" }, "name" : "Designer Whey 100% Premium Whey Protein Powder", "manufacturer" : "Designer Whey" }
+{ "_id" : { "$oid" : "55721472446572640e2b0100" }, "name" : "Animal Juiced Aminos 30 Servings", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55721477446572640e2c0100" }, "name" : "Quest Bars 12 Pack (12-2.1 oz Bars)", "manufacturer" : "Quest Nutrition" }
+{ "_id" : { "$oid" : "5572147b446572640e2d0100" }, "name" : "Optimum Nutrition Platinum HydroBuilder Sample Packet", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55721480446572640e2e0100" }, "name" : "MuscleTech Pro Clinical Hydroxycut Gummies - 60 Gummies", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721485446572640e2f0100" }, "name" : "ErgoGenix ErgoBolic 120 Capsules", "manufacturer" : "Ergo Genix" }
+{ "_id" : { "$oid" : "55721495446572640e300100" }, "name" : "Cellucor C4 Extreme 30 Servings", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "5572149a446572640e310100" }, "name" : "Gaspari Nutrition Myofusion Advanced 4 lbs.", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "557214ba446572640e320100" }, "name" : "Nuttrex Research OutLift", "manufacturer" : "Nutrex" }
+{ "_id" : { "$oid" : "557214bf446572640e330100" }, "name" : "MRM Digest All 100 Vegetarian Capsules", "manufacturer" : "Metabolic Response Modifiers-MRM" }
+{ "_id" : { "$oid" : "557214c8446572640e340100" }, "name" : "Pure Green Coffee Bean Extract 120 Caps", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "557214dd446572640e350100" }, "name" : "Nubreed Nutrition Hysteria 63 Capsules", "manufacturer" : "Nubreed Nutrition" }
+{ "_id" : { "$oid" : "557214e2446572640e360100" }, "name" : "BSN Amino X", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "557214e7446572640e370100" }, "name" : "FitMiss Burn 90 Capsules", "manufacturer" : "Fit Miss" }
+{ "_id" : { "$oid" : "557214ec446572640e380100" }, "name" : "Allmax Nutrition QuickMass Sample Packet", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "55721500446572640e390100" }, "name" : "Nutri Force Sports WodPak 30 Packets", "manufacturer" : "Nutri Force Sports" }
+{ "_id" : { "$oid" : "5572150f446572640e3a0100" }, "name" : "White Flood by Controlled Labs", "manufacturer" : "Controlled Labs" }
+{ "_id" : { "$oid" : "55721514446572640e3b0100" }, "name" : "BPI Sports Pump HD Orange 30 Servings", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55721522446572640e3c0100" }, "name" : "Labrada Nutrition Lean Body 2.47 lbs.", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55721528446572640e3d0100" }, "name" : "CytoSport Monster Milk", "manufacturer" : "CytoSport" }
+{ "_id" : { "$oid" : "55721548446572640e3e0100" }, "name" : "Pro Supps Halotropin 90 Capsules", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "5572154e446572640e3f0100" }, "name" : "Muscle Meds Carnivor Mass", "manufacturer" : "Muscle Meds" }
+{ "_id" : { "$oid" : "55721561446572640e400100" }, "name" : "Vitalikor Deer Antler Velvet Extract Spray 60 Servings", "manufacturer" : "Vitality Research Labs" }
+{ "_id" : { "$oid" : "55721567446572640e410100" }, "name" : "Beast Sports Nutrition Aminolytes 30 Servings", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55721572446572640e420100" }, "name" : "Universal Nutrition Uni-Vite 120 Capsules", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55721587446572640e430100" }, "name" : "All American EFX Test Charge Hardcore 30 Day Kit", "manufacturer" : "All American EFX" }
+{ "_id" : { "$oid" : "5572158c446572640e440100" }, "name" : "Myogenix Pro Enzyme + Fiber 50 Servings", "manufacturer" : "MyoGenix" }
+{ "_id" : { "$oid" : "55721598446572640e450100" }, "name" : "Muscle Pharm Shred Matrix 120 caps", "manufacturer" : "Muscle Pharm" }
+{ "_id" : { "$oid" : "5572159d446572640e460100" }, "name" : "Allmax Nutrition Vitastack", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "557215a8446572640e470100" }, "name" : "BSN True Mass 5.75lb", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "557215b0446572640e480100" }, "name" : "Prime Nutrition Fat Burner 45 Servings", "manufacturer" : "Prime Nutrition" }
+{ "_id" : { "$oid" : "557215bf446572640e490100" }, "name" : "MuscleMeds Methyl Arimatest 180 Capsules", "manufacturer" : "Muscle Meds" }
+{ "_id" : { "$oid" : "557215c4446572640e4a0100" }, "name" : "MHP Power Pack Pudding Vanilla 6 Cans -8.8 oz each", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "557215ca446572640e4b0100" }, "name" : "Nature Best Isopure Zero Carb", "manufacturer" : "Nature's Best" }
+{ "_id" : { "$oid" : "557215e7446572640e4c0100" }, "name" : "Optimum Nutrition Opti Men", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "557215ed446572640e4d0100" }, "name" : "MuscleTech Platinum Pure CLA 95 - 90 Soft Gel", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557215f2446572640e4e0100" }, "name" : "VPX Sports NO Shotgun 5X 28 Servings", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "557215f8446572640e4f0100" }, "name" : "Optimum Nutrition 2:1:1 Recovery Colossal Chocolate 3.73 Lbs.", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "557215fd446572640e500100" }, "name" : "MuscleTech Hydroxycut Hardcore Elite", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "5572160c446572640e510100" }, "name" : "USPLabs Test Powder 4 Week Cycle Blue Raspberry", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55721615446572640e520100" }, "name" : "Metabolic Nutrition C.G.P. Creatine Glycerol Phosphate 400 Grams", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "55721622446572640e530100" }, "name" : "USPLabs EpiBurn Pro 90 Caps", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55721627446572640e540100" }, "name" : "MHP Funnel", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "5572162c446572640e550100" }, "name" : "SimplyOne 50+ Women + FREE SimplyOne Women Trial Pack", "manufacturer" : "Super Nutrition" }
+{ "_id" : { "$oid" : "55721631446572640e560100" }, "name" : "MHP T-Bomb II 168 Caps", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55721636446572640e570100" }, "name" : "Pro Supps I-Focus 60 Capsules", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55721640446572640e580100" }, "name" : "MRI NO2 Black Full Cycle 150 Caplets", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "55721654446572640e590100" }, "name" : "Force Factor Ketobolic Pro 70 Capsules", "manufacturer" : "Force Factor" }
+{ "_id" : { "$oid" : "55721659446572640e5a0100" }, "name" : "360Lean 90 Capsules", "manufacturer" : "360 Cut" }
+{ "_id" : { "$oid" : "55721662446572640e5b0100" }, "name" : "Prosupps Hyde V2 40 Servings + FREE T-Shirt", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55721667446572640e5c0100" }, "name" : "Athletic Xtreme Slim FX 56 Capsules", "manufacturer" : "Athletic Xtreme" }
+{ "_id" : { "$oid" : "5572166c446572640e5d0100" }, "name" : "Mangodrin Xtreme 60 Count", "manufacturer" : "truDERMA" }
+{ "_id" : { "$oid" : "55721671446572640e5e0100" }, "name" : "Cloma Pharma Black Spider 25 - 100 Capsules", "manufacturer" : "Cloma Pharma" }
+{ "_id" : { "$oid" : "55721675446572640e5f0100" }, "name" : "Optimum Nutrition Melatonin 3 MG - 100 Tablets", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "5572167f446572640e600100" }, "name" : "Iron Pack 30 Packs", "manufacturer" : "Arnold By MusclePharm" }
+{ "_id" : { "$oid" : "55721689446572640e610100" }, "name" : "Isatori PWR with Red Dralion 5 Servings Fruit Punch", "manufacturer" : "Isatori" }
+{ "_id" : { "$oid" : "55721699446572640e620100" }, "name" : "GAT Creatine 1000 Grams", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "5572169e446572640e630100" }, "name" : "Muscletech Creacore 80 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557216a2446572640e640100" }, "name" : "Gaspari Nutrition Superpump 3.0 Sample", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "557216ac446572640e650100" }, "name" : "Isatori Bio Gro 60 Servings + FREE Isatori T Shirt", "manufacturer" : "Isatori" }
+{ "_id" : { "$oid" : "557216c5446572640e660100" }, "name" : "MyoGenix Myovite 44 Packets", "manufacturer" : "MyoGenix" }
+{ "_id" : { "$oid" : "557216d0446572640e670100" }, "name" : "GAT Jetfuel SuperBurn 120 Caps", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "557216da446572640e680100" }, "name" : "Metabolic Nutrition Protizyme Sample Pack - 1 Serving", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "557216df446572640e690100" }, "name" : "Cellucor P6 Extreme Black 90 Capsules", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "557216e5446572640e6a0100" }, "name" : "MRI EO2 VMax", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "557216f4446572640e6b0100" }, "name" : "JETFUSE NOX 52 Servings", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "557216f9446572640e6c0100" }, "name" : "NoGii Paleo Bar 9 Pack (9 - 1.5oz Bars)", "manufacturer" : "NoGii" }
+{ "_id" : { "$oid" : "55721703446572640e6d0100" }, "name" : "LEAN STACK - Lean Body 2.47 Lbs. + Garcinia 90 Caps", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55721707446572640e6e0100" }, "name" : "Allmax Nutrition IsoNatural 2lb.", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "5572170c446572640e6f0100" }, "name" : "Novex Biotech Growth Factor 9 120 Capsules", "manufacturer" : "Novex Biotech" }
+{ "_id" : { "$oid" : "55721725446572640e700100" }, "name" : "Amazing Grass Orgainc Wheat Grass", "manufacturer" : "Amazing Grass" }
+{ "_id" : { "$oid" : "5572172a446572640e710100" }, "name" : "Ronnie Coleman Signature Series Pro Antium 5 Lbs.", "manufacturer" : "Ronnie Coleman Signature Series" }
+{ "_id" : { "$oid" : "55721733446572640e720100" }, "name" : "MuscleTech Anabolic Halo 2.4 lbs", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "5572173c446572640e730100" }, "name" : "I Force Nutrition Compete 50 Servings", "manufacturer" : "I-Force-Nutrition" }
+{ "_id" : { "$oid" : "55721741446572640e740100" }, "name" : "Pro Supps Karbolic 4.4 Lbs.", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55721746446572640e750100" }, "name" : "Athletic Edge Nutrition Creatine RT Grape BubbleGum 20 Servings", "manufacturer" : "Athletic Edge Nutrition" }
+{ "_id" : { "$oid" : "5572174c446572640e760100" }, "name" : "Giant Sports Delicious Protein + FREE Giant Pump Trial", "manufacturer" : "Giant Sports" }
+{ "_id" : { "$oid" : "55721751446572640e770100" }, "name" : "Betancourt Nutrition D-Stunner 28 Servings", "manufacturer" : "Betancourt Nutrition" }
+{ "_id" : { "$oid" : "55721755446572640e780100" }, "name" : "Genomyx EVOL RED 40 Servings", "manufacturer" : "Genomyx" }
+{ "_id" : { "$oid" : "5572177d446572640e790100" }, "name" : "BSN NO Xplode 2.0 Advanced Strength 30 Servings", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55721786446572640e7a0100" }, "name" : "VPX NO Synthesize", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55721791446572640e7b0100" }, "name" : "Allmax Nutrition Creatine Monohydrate", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "55721796446572640e7c0100" }, "name" : "USPlabs Super Cissus 150 Capsules", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "5572179c446572640e7d0100" }, "name" : "BPI Sports Nite-Burn 30 Capsules", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "557217ac446572640e7e0100" }, "name" : "Hoodia Gordonii", "manufacturer" : null }
+{ "_id" : { "$oid" : "557217b6446572640e7f0100" }, "name" : "BSN Syntha-6", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "557217bb446572640e800100" }, "name" : "Labrada Nutrition Iso LeanPro 5 lbs.", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "557217cf446572640e810100" }, "name" : "GAT Jetfuel T-300 90 Oil-Infused Capsules", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "557217ec446572640e820100" }, "name" : "Troxyphen 60 Capsules", "manufacturer" : "truDERMA" }
+{ "_id" : { "$oid" : "5572180c446572640e830100" }, "name" : "Side Effects Sports Fat Burner Fruit Punch 45 Servings", "manufacturer" : "Side Effect Sports" }
+{ "_id" : { "$oid" : "55721811446572640e840100" }, "name" : "VPX Sports MD2 Meltdown 100 Capsules", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55721816446572640e850100" }, "name" : "Shaker Pro 40", "manufacturer" : null }
+{ "_id" : { "$oid" : "55721824446572640e860100" }, "name" : "Athletic Xtreme German Creatine 60 Servings", "manufacturer" : "Athletic Xtreme" }
+{ "_id" : { "$oid" : "5572182f446572640e870100" }, "name" : "Muscletech Mass-Tech 7 Lbs.", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721840446572640e880100" }, "name" : "Lecheek Nutrition OxyECA Black 45 Caps", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "5572184f446572640e890100" }, "name" : "Dymatize Elite Casein", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55721858446572640e8a0100" }, "name" : "All American EFX Vita Drive 120 Capsules", "manufacturer" : "All American EFX" }
+{ "_id" : { "$oid" : "5572185d446572640e8b0100" }, "name" : "Athletic Edge Nutrition LIV 30 Servings", "manufacturer" : "Athletic Edge Nutrition" }
+{ "_id" : { "$oid" : "55721862446572640e8c0100" }, "name" : "USPLabs Modern BCAA Plus 150 Tablets", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55721873446572640e8d0100" }, "name" : "IForce Nutrition TT-33 90 Caps", "manufacturer" : "I-Force-Nutrition" }
+{ "_id" : { "$oid" : "55721879446572640e8e0100" }, "name" : "Gaspari Glutamine 300 Grams (60 Servings)", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55721892446572640e8f0100" }, "name" : "Allmax Aminocore BCAA 400g", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "557218a5446572640e900100" }, "name" : "MRI Black Powder 1.76 lb", "manufacturer" : "MRI" }
+{ "_id" : { "$oid" : "557218a9446572640e910100" }, "name" : "Universal Nutrition Animal Test 21 Pack", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "557218b5446572640e920100" }, "name" : "Xenadrine Core 80 Capsule", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557218d4446572640e930100" }, "name" : "MuscleTech Essential Series 100% Platinum Casein", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557218e6446572640e940100" }, "name" : "MHP Anadrox Pump & Burn", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "557218eb446572640e950100" }, "name" : "GAT Adenoflex 30 Servings", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55721920446572640e960100" }, "name" : "Gaspari Nutrition Amino Last 30 Servings", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55721925446572640e970100" }, "name" : "Cytosport Muscle Milk Collegiate 5.29 Lbs.", "manufacturer" : "CytoSport" }
+{ "_id" : { "$oid" : "5572195d446572640e980100" }, "name" : "Nutrex Adipodex 45 Capsules", "manufacturer" : "Nutrex" }
+{ "_id" : { "$oid" : "5572197b446572640e990100" }, "name" : "Labrada Nutrition Supercharge Xtreme 4.0 800g", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55721985446572640e9a0100" }, "name" : "Allmax Aminocore 210 Caps", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "5572198e446572640e9b0100" }, "name" : "Super Nutrition Women's Blend", "manufacturer" : "Super Nutrition" }
+{ "_id" : { "$oid" : "55721998446572640e9c0100" }, "name" : "Nutrex Anabol 5 120 Capsules", "manufacturer" : "Nutrex" }
+{ "_id" : { "$oid" : "557219a7446572640e9d0100" }, "name" : "Betancourt Nutrition Ripped Juice EX2 60 Capsules", "manufacturer" : "Betancourt Nutrition" }
+{ "_id" : { "$oid" : "557219c4446572640e9e0100" }, "name" : "NoGii Whey & Quinoa Protein 15 Servings", "manufacturer" : "NoGii" }
+{ "_id" : { "$oid" : "557219ce446572640e9f0100" }, "name" : "Muscle Meds Carnivor 4.6 lb", "manufacturer" : "Muscle Meds" }
+{ "_id" : { "$oid" : "557219d2446572640ea00100" }, "name" : "Xenadrine Core Pre-Workout", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721a2e446572640ea10100" }, "name" : "Force Factor Factor 2 120 Capsules", "manufacturer" : "Force Factor" }
+{ "_id" : { "$oid" : "55721a3c446572640ea20100" }, "name" : "Amphetalean Powder Orange Cooler 45 Servings", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55721a58446572640ea30100" }, "name" : "Dymatize Elite Primal 56 Servings", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55721a63446572640ea40100" }, "name" : "Optimum Nutrition Gold Standard Pre Workout", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55721a7c446572640ea50100" }, "name" : "Muscle Gel", "manufacturer" : "Muscle Pharm" }
+{ "_id" : { "$oid" : "55721a90446572640ea60100" }, "name" : "MHP T Bomb 3Xtreme 168 Caps", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55721a95446572640ea70100" }, "name" : "Athletic Xtreme Mass FX Black 112 Capsules", "manufacturer" : "Athletic Xtreme" }
+{ "_id" : { "$oid" : "55721a9a446572640ea80100" }, "name" : "Xenadrine Bonus Pack 7X - 2x60ct Bottles", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721a9f446572640ea90100" }, "name" : "Dymatize Elite Fusion 7", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55721acc446572640eaa0100" }, "name" : "360Sport Blue Raspberry 31 Servings", "manufacturer" : "360 Cut" }
+{ "_id" : { "$oid" : "55721af8446572640eab0100" }, "name" : "Gaspari Nutrition Anavite", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55721b0a446572640eac0100" }, "name" : "Lecheek Nutrition Stim Shot Peppermint 40 Servings", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "55721b17446572640ead0100" }, "name" : "Gaspari Nutrition Detonate XT 90 Caps", "manufacturer" : "GasPari Nutrition" }
+{ "_id" : { "$oid" : "55721b37446572640eae0100" }, "name" : "Muscletech Platinum 100% Whey Sample Pack", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721b3c446572640eaf0100" }, "name" : "Biotech Nutritions Caralluma Fimbriata 60 Capsules", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55721b58446572640eb00100" }, "name" : "BSN Hyper FX 30 Servings", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55721b5c446572640eb10100" }, "name" : "Dymatize Super Amino 6000 - 180 Caps", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55721b67446572640eb20100" }, "name" : "Fit Miss BCAA 30 Servings", "manufacturer" : "Fit Miss" }
+{ "_id" : { "$oid" : "55721b6c446572640eb30100" }, "name" : "EXT Sports GO 30 Servings", "manufacturer" : "EXT Sports" }
+{ "_id" : { "$oid" : "55721b72446572640eb40100" }, "name" : "Genomyx Stimaholic 35 Servings", "manufacturer" : "Genomyx" }
+{ "_id" : { "$oid" : "55721b83446572640eb50100" }, "name" : "Allmax Nutrition QuickMass + FREE Biotech Nutrition Creatine", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "55721b8e446572640eb60100" }, "name" : "MRM Smart Blend", "manufacturer" : "Metabolic Response Modifiers-MRM" }
+{ "_id" : { "$oid" : "55721b99446572640eb70100" }, "name" : "MHP A-Bomb 224 Tablets", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55721ba8446572640eb80100" }, "name" : "USPLabs OxyElite Protein 2 lbs.", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55721bb7446572640eb90100" }, "name" : "Athletic Edge Nutrition PreSurge 35 Servings", "manufacturer" : "Athletic Edge Nutrition" }
+{ "_id" : { "$oid" : "55721bc6446572640eba0100" }, "name" : "USPLabs AminoLift 30 Servings", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55721bd3446572640ebb0100" }, "name" : "MuscleTech Platinum Pure CLA 90 Capsule", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721bdd446572640ebc0100" }, "name" : "USPLabs Modern BCAA Plus 30 Servings", "manufacturer" : "USPLabs" }
+{ "_id" : { "$oid" : "55721be7446572640ebd0100" }, "name" : "Cellucor D4 Thermo Shock 120 Capsules", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "55721c18446572640ebe0100" }, "name" : "Universal Nutrition Animal Pump 30 Packs", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55721c1d446572640ebf0100" }, "name" : "NoGii Super Protein Bar", "manufacturer" : "NoGii" }
+{ "_id" : { "$oid" : "55721c22446572640ec00100" }, "name" : "Beast Sports Nutrition Glutamine 60 Servings", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55721c2b446572640ec10100" }, "name" : "Novex Biotech TestroVax 90 Tablets", "manufacturer" : "Novex Biotech" }
+{ "_id" : { "$oid" : "55721c3a446572640ec20100" }, "name" : "Muscletech Platinum Pure Krill Oil 30 Soft Gel Caps", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721c59446572640ec30100" }, "name" : "MHP Dark Rage 2.6 Lbs.", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55721c64446572640ec40100" }, "name" : "Rasp-Kut 240 Caps", "manufacturer" : "Nutra Health Supply" }
+{ "_id" : { "$oid" : "55721c6e446572640ec50100" }, "name" : "Muscletech Alpha Test 100 Caps", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721c82446572640ec60100" }, "name" : "Controlled Labs White Flood Reborn Juicy Watermelon 60 Servings", "manufacturer" : "Controlled Labs" }
+{ "_id" : { "$oid" : "55721c88446572640ec70100" }, "name" : "360PRE", "manufacturer" : "360 Cut" }
+{ "_id" : { "$oid" : "55721c9c446572640ec80100" }, "name" : "Muscletech Nanostim 100 Caps", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721caf446572640ec90100" }, "name" : "Muscletech Anarchy", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721cc8446572640eca0100" }, "name" : "Ripped Juice REV-PEA 60 Capsules", "manufacturer" : "Betancourt Nutrition" }
+{ "_id" : { "$oid" : "55721cdf446572640ecb0100" }, "name" : "Betancourt Nutrition Recelerator 28 Serv. Fruit Punch", "manufacturer" : "Betancourt Nutrition" }
+{ "_id" : { "$oid" : "55721ced446572640ecc0100" }, "name" : "BSN Evotest 30 Servings", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55721cf1446572640ecd0100" }, "name" : "Dymatize ISO 100", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55721cf6446572640ece0100" }, "name" : "Pharma Freak GH Freak 120 Capsules", "manufacturer" : "Pharma Freak" }
+{ "_id" : { "$oid" : "55721cfb446572640ecf0100" }, "name" : "BPI Sports Whey HD + FREE Pump HD Trial Size", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55721d0a446572640ed00100" }, "name" : "MHP Activite Sport 120 Tablets", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55721d0f446572640ed10100" }, "name" : "Labrada Nutrition Gold EFA Lean 180 SoftGels", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55721d1d446572640ed20100" }, "name" : "Beast Sports Nutrition Beast Mode 45 Servings", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55721d37446572640ed30100" }, "name" : "Novex Biotech Oxydrene Elite 120 Capsules", "manufacturer" : "Novex Biotech" }
+{ "_id" : { "$oid" : "55721d41446572640ed40100" }, "name" : "Muscletech Shaker Cup", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721d5f446572640ed50100" }, "name" : "Controlled Labs Orange Triad 270 Caps", "manufacturer" : "Controlled Labs" }
+{ "_id" : { "$oid" : "55721d6f446572640ed60100" }, "name" : "Twinlab Ripped Fuel Extreme 60 Capsules", "manufacturer" : "Twinlab" }
+{ "_id" : { "$oid" : "55721d79446572640ed70100" }, "name" : "Dymatize Micronized Creatine", "manufacturer" : "Dymatize" }
+{ "_id" : { "$oid" : "55721d88446572640ed80100" }, "name" : "Muscletech Platinum Creatine 80 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721d8d446572640ed90100" }, "name" : "Biotech Nutritions Pure Muscadine Grape Seed 90 Capsules", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55721da6446572640eda0100" }, "name" : "ProSupps Vanish Sample Packet", "manufacturer" : "ProSupps" }
+{ "_id" : { "$oid" : "55721db0446572640edb0100" }, "name" : "Cytosports Muscle Milk", "manufacturer" : "CytoSport" }
+{ "_id" : { "$oid" : "55721dc0446572640edc0100" }, "name" : "Metabolic Nutrition Phenolox 45 Caps + FREE Synedrex Trial", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "55721dca446572640edd0100" }, "name" : "Labrada Nutrition Glycocarn 60 Capsules", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55721dd8446572640ede0100" }, "name" : "Alpha Helix Voltagen 24 Servings - 2.04 lbs (927g)", "manufacturer" : "Alpha Helix" }
+{ "_id" : { "$oid" : "55721df6446572640edf0100" }, "name" : "Formutech Nutrition 240 Veggie Capsules", "manufacturer" : "Formutech Nutrition" }
+{ "_id" : { "$oid" : "55721dfe446572640ee00100" }, "name" : "Prolab Creatine Monohydrate 1000 Grams", "manufacturer" : "Prolab" }
+{ "_id" : { "$oid" : "55721e17446572640ee10100" }, "name" : "Allmax Nutrition TESTOFX 90 Capsules", "manufacturer" : "Allmax Nutrition" }
+{ "_id" : { "$oid" : "55721e1c446572640ee20100" }, "name" : "CytoSport Cytomax 4.5 lbs.", "manufacturer" : "CytoSport" }
+{ "_id" : { "$oid" : "55721e44446572640ee30100" }, "name" : "Cellucor CLK 60 SoftGels", "manufacturer" : "Cellucor" }
+{ "_id" : { "$oid" : "55721e48446572640ee40100" }, "name" : "VPX Redline Ultra Hardcore", "manufacturer" : "VPX" }
+{ "_id" : { "$oid" : "55721e6a446572640ee50100" }, "name" : "Betancourt Nutrition Amino Tablets 320 Tablets", "manufacturer" : "Betancourt Nutrition" }
+{ "_id" : { "$oid" : "55721e7e446572640ee60100" }, "name" : "SAN Tight Original 60 Capsules", "manufacturer" : "SAN" }
+{ "_id" : { "$oid" : "55721e93446572640ee70100" }, "name" : "Muscltech Platinum 100% Beef Protein", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721ea9446572640ee80100" }, "name" : "Twinlab Ripped Fuel", "manufacturer" : "Twinlab" }
+{ "_id" : { "$oid" : "55721ecc446572640ee90100" }, "name" : "Lean Body for Her Hi-Meal Replacement Shake 20 Packets", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55721ed6446572640eea0100" }, "name" : "Con-Cret 48 Servings", "manufacturer" : "Con-Cret" }
+{ "_id" : { "$oid" : "55721edb446572640eeb0100" }, "name" : "Beast Sports Nutrition Beast Whey", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55721ee0446572640eec0100" }, "name" : "Universal Nutrition Animal Flex 44 packs", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "55721eef446572640eed0100" }, "name" : "Hydroxycut Pro Clinical 150 Caplets", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721ef4446572640eee0100" }, "name" : "Purus Labs TheaTrim 60 Capsules", "manufacturer" : "Purus Labs" }
+{ "_id" : { "$oid" : "55721f02446572640eef0100" }, "name" : "Optimum Nutrition HMB 1000 - 90 Caps", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55721f06446572640ef00100" }, "name" : "SimplyOne 50+ Men + FREE SimplyOne Men Trial Pack", "manufacturer" : "Super Nutrition" }
+{ "_id" : { "$oid" : "55721f1c446572640ef10100" }, "name" : "Iron Cre3 30 Servings", "manufacturer" : "Arnold By MusclePharm" }
+{ "_id" : { "$oid" : "55721f26446572640ef20100" }, "name" : "Optimum Nutrition Pro Gainer", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55721f30446572640ef30100" }, "name" : "GAT Jetmass Sample Pack", "manufacturer" : "German American Technologies" }
+{ "_id" : { "$oid" : "55721f35446572640ef40100" }, "name" : "Cutler Nutrition Legend 28 Servings", "manufacturer" : "Cutler Nutrition" }
+{ "_id" : { "$oid" : "55721f4d446572640ef50100" }, "name" : "Neon Sport Surge 90 Capsules", "manufacturer" : "Neon Sports" }
+{ "_id" : { "$oid" : "55721f5c446572640ef60100" }, "name" : "Optimum Nutrition Creatine 2500 - 300 Caps", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55721f7e446572640ef70100" }, "name" : "BPI Sports 1MR Vortex 50 Servings", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "55721f83446572640ef80100" }, "name" : "Metabolic Nutrition Hydravax 45 Caps", "manufacturer" : "Metabolic Nutrition" }
+{ "_id" : { "$oid" : "55721f96446572640ef90100" }, "name" : "Basic Research ThermoDyne, 120 Capsules", "manufacturer" : "Novex Biotech" }
+{ "_id" : { "$oid" : "55721fa4446572640efa0100" }, "name" : "MuscleTech Platinum Fish Oil 4X 60 Soft Gel", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721fd0446572640efb0100" }, "name" : "Biotech Nutritions D-Aspartic Acid 200 Caps", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55721fd5446572640efc0100" }, "name" : "Muscletech Creakic Hardcore Pro Series 180 Caps", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55721fee446572640efd0100" }, "name" : "Optimum Nutrition ZMA", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "55722007446572640efe0100" }, "name" : "Muscletech Nitro-Tech + FREE Platinum 100% Whey 3 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "5572203f446572640eff0100" }, "name" : "All American EFX Joint Rehab 60 Capsules", "manufacturer" : "All American EFX" }
+{ "_id" : { "$oid" : "5572205f446572640e000200" }, "name" : "Lecheek Nutrition Mass HGH 90 Capsules", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "5572207d446572640e010200" }, "name" : "Cutler Nutrition Pro Stim 30 Servings", "manufacturer" : "Cutler Nutrition" }
+{ "_id" : { "$oid" : "55722082446572640e020200" }, "name" : "Muscletech Myobuild 40 Servings Grape", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55722092446572640e030200" }, "name" : "Optimum Nutrition Thermo Cuts 100 Caps", "manufacturer" : "Optimum Nutrition" }
+{ "_id" : { "$oid" : "557220d3446572640e040200" }, "name" : "Bio Science Institute Absolute Fuel Xtreme 120 Caps", "manufacturer" : "Bio Science Institute" }
+{ "_id" : { "$oid" : "557220dc446572640e050200" }, "name" : "Finaflex G8 Lemon Freeze 40 Servings", "manufacturer" : "FINAFLEX (Redefine Nutrition)" }
+{ "_id" : { "$oid" : "557220ea446572640e060200" }, "name" : "Nubreed Nutrition Insanity 45 Capsules", "manufacturer" : "Nubreed Nutrition" }
+{ "_id" : { "$oid" : "55722111446572640e070200" }, "name" : "Athletic Edge Nutrition LIV 60 Caps", "manufacturer" : "Athletic Edge Nutrition" }
+{ "_id" : { "$oid" : "55722116446572640e080200" }, "name" : "MuscleTech Nano Vapor 40 Servings + FREE Anarchy 6 Servings", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "55722124446572640e090200" }, "name" : "BSN N.O. XPLODE Pre-Training Igniter", "manufacturer" : "BSN" }
+{ "_id" : { "$oid" : "55722147446572640e0a0200" }, "name" : "Biotech Nutritions Caffeine 120 Tablets", "manufacturer" : "Biotech Nutritions" }
+{ "_id" : { "$oid" : "55722156446572640e0b0200" }, "name" : "CytoSport Monster Mass 5.95 lbs", "manufacturer" : "CytoSport" }
+{ "_id" : { "$oid" : "55722164446572640e0c0200" }, "name" : "Labrada Nutrition Lean Pro 8", "manufacturer" : "Labrada Nutrition" }
+{ "_id" : { "$oid" : "55722169446572640e0d0200" }, "name" : "Beast Sports Nutrition Creature 60 Servings", "manufacturer" : "Beast Sports Nutrition" }
+{ "_id" : { "$oid" : "55722173446572640e0e0200" }, "name" : "Universal Nutrition Animal Cuts 42 Pack", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "557221bd446572640e0f0200" }, "name" : "ProLab Advanced Essential Whey Vanilla Cream 2 lb", "manufacturer" : "Prolab" }
+{ "_id" : { "$oid" : "557221dc446572640e100200" }, "name" : "MuscleTech Hydroxystim 100 Caps", "manufacturer" : "MuscleTech" }
+{ "_id" : { "$oid" : "557221f4446572640e110200" }, "name" : "All American EFX Karbolyn 4.4 lb", "manufacturer" : "All American EFX" }
+{ "_id" : { "$oid" : "5572223d446572640e120200" }, "name" : "AB FX 8 OZ.", "manufacturer" : "Body FX" }
+{ "_id" : { "$oid" : "55722255446572640e130200" }, "name" : "Muscle Milk Gainer 5 Lbs.", "manufacturer" : "CytoSport" }
+{ "_id" : { "$oid" : "5572229b446572640e140200" }, "name" : "RSP Fast Fuel 30 Servings", "manufacturer" : "RSP Nutrition" }
+{ "_id" : { "$oid" : "557222a9446572640e150200" }, "name" : "Athletes Joint Restore 56 Capsules", "manufacturer" : "Athletic Xtreme" }
+{ "_id" : { "$oid" : "557222d0446572640e160200" }, "name" : "Neon Sport Intercept 60 Capsules", "manufacturer" : "Neon Sports" }
+{ "_id" : { "$oid" : "557222e8446572640e170200" }, "name" : "Muscle Warefare Thermofuse 90 Caps", "manufacturer" : "Muscle-Warefare" }
+{ "_id" : { "$oid" : "55722339446572640e180200" }, "name" : "BPI Sports Leucine AGMA pH 40 Servings", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "5572233e446572640e190200" }, "name" : "MHP Dren 30 Capsules", "manufacturer" : "Maximum Human Performance - MHP" }
+{ "_id" : { "$oid" : "55722397446572640e1a0200" }, "name" : "Iron Cuts 90 Capsules", "manufacturer" : "Arnold By MusclePharm" }
+{ "_id" : { "$oid" : "557223c3446572640e1b0200" }, "name" : "Giant Sports Giant Pump 32 Servings", "manufacturer" : "Giant Sports" }
+{ "_id" : { "$oid" : "557223cc446572640e1c0200" }, "name" : "BPI Sports Gluta Alkaline 40 Servings", "manufacturer" : "BPI" }
+{ "_id" : { "$oid" : "557223e0446572640e1d0200" }, "name" : "Lecheek Nutrition Cycle Armor 60 Capsules", "manufacturer" : "Lecheek Nutrition" }
+{ "_id" : { "$oid" : "557223f7446572640e1e0200" }, "name" : "Universal Nutrition Animal M Stak 21 Packs", "manufacturer" : "Universal Nutrition" }
+{ "_id" : { "$oid" : "557223fd446572640e1f0200" }, "name" : "Vitalikor Fast Acting 20 Capsules", "manufacturer" : "Vitality Research Labs" }
